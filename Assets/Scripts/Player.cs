@@ -85,7 +85,7 @@ using UnityEngine.UIElements;
       if(Input.GetKey(KeyCode.W) && Input.GetKey(KeyCode.LeftShift))
       {
          animator.SetBool("Correndo", true);
-         Walk(8);
+         Walk(14);
       }
       else
       {
