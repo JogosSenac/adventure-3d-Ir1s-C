@@ -4,7 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - "Ch\xE3o"
+  - Chao
+  - Rio
+  - Arvores
+  - Inimigo
+  - Castle
+  - Boss
   layers:
   - Default
   - TransparentFX
